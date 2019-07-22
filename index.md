@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Incessant prattling on Markdown
+  Musings of Colette Lapaix on the topic of Github's markdown.
+  
+## What is Markdown?
+Markdown is a simple, lightweight, intuitive plain text markup language. It's syntax is easy to grasp and newcomer friendly. Github utilizes this tool in conjuction with it's Jekyll tool to generate HTML or Hypertext Markup Language pages with design elements while empowering users with the flexibiltiy and freedom to creatively explore the rich and expertly curated sandbox they've given to the public for free.
 
-You can use the [editor on GitHub](https://github.com/clapaix/Learning-Markup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clapaix/Learning-Markup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### _Why choose Markdown?_
+Let us list the pros and cons. 
+Pros: | Cons:
+-----------------------------------------------------------------------------------------
+Simple and lightweight. | Less in-depth.
+-----------------------------------------------------------------------------------------
+Easy to get into. | Limited skill ceiling.
+-----------------------------------------------------------------------------------------
+Plethora of online tutorials. |  Less creative freedom than CSS/HTML/JS pages.
+-----------------------------------------------------------------------------------------
+Well defined structure. | Bound by its structure.
+-----------------------------------------------------------------------------------------
+A wealth of intuitive and forgiving tools. |  Bound to the tools useable in Markdown.
+-----------------------------------------------------------------------------------------
