@@ -14,3 +14,10 @@ Pros: | Cons:
 | Plethora of online tutorials. |  Less creative freedom than CSS/HTML/JS pages.|
 | Easy to read syntax. | Merges semantic meaning.|
 | Platform-Agnostic. |  Not all forms of Markdown are compatible.|
+
+Markdown remains a very popular medium for coding despite it's limitations, the biggest drawback being that it is not always rendered in browser exactly the same. For larger productions (corporate contracts, large businesses, a need for many precise pages) Markdown starts to lose viability, but for the average joe like you and I it can be incredible. 
+
+Take for instance the simple headers I have above this. With a simple keystroke and a pound sign followed be a space like so ``` ### ``` 
+### Anything can be a header!
+The table and cells up there are just a simple combination of ``` ---- and |```
+Looking at the code in markdown it is easy to see how things are done and emulate it.
