@@ -27,7 +27,7 @@ This is the biggest strength of Markdown in my opinion. The incredibly easy to d
 
 ![image](https://user-images.githubusercontent.com/53190668/61666118-8a2ac080-ac8b-11e9-8a02-26dfedbf866f.png)
 
-#Incessant Prattling on Console Commands
+# Incessant Prattling on Console Commands
 This section will be more bullet notes for my own memory's sake as I'm horrid at remembering important commands and the like. 
 
 - LS= List. This shows you everything inside of the directory you're currently inside of.
