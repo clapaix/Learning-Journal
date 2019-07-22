@@ -9,7 +9,7 @@ Markdown is a simple, lightweight, intuitive plain text markup language. It's sy
 ### _Why choose Markdown?_
 Let us list the pros and cons. 
 
-Pros: | Cons:
+Pros:             |               Cons:
 |------|-------|
 | Simple and lightweight. | Less in-depth.|
 | Easy to get into. | Not originally written for documentation.|
