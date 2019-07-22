@@ -24,3 +24,13 @@ Take for instance the simple headers I have above this. With a simple keystroke 
 The table and cells up there are just a simple combination of ``` ---- and |```
 Looking at the code in markdown it is easy to see how things are done and emulate it.
 This is the biggest strength of Markdown in my opinion. The incredibly easy to decipher syntax makes for easy learning and easy coding. All in all, it's a wonderfully designed tool.
+
+![image](https://user-images.githubusercontent.com/53190668/61666118-8a2ac080-ac8b-11e9-8a02-26dfedbf866f.png)
+
+#Incessant Prattling on Console Commands
+This section will be more bullet notes for my own memory's sake as I'm horrid at remembering important commands and the like. 
+
+- LS= List. This shows you everything inside of the directory you're currently inside of.
+- CD= The magical school bus of commands, this is gonna take you to some weird places inside of the console command center. This takes you over to the destintation directory you've established. 
+    - You cannot leave unattended spaces as they signify separate entities within the console. Be careful not to type something like "Holiday photos" without the appropriate modifiers to show that the space is nomenclature and not a break in command.
+- PWD= Print Working Directory. This shows where you are at in the moment. Did you just ls at the wrong time and get a huge list? Don't wanna scroll to see where the hell you are? pwd is your friend.
