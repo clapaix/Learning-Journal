@@ -21,3 +21,4 @@ Take for instance the simple headers I have above this. With a simple keystroke 
 ### Anything can be a header!
 The table and cells up there are just a simple combination of ``` ---- and |```
 Looking at the code in markdown it is easy to see how things are done and emulate it.
+This is the biggest strength of Markdown in my opinion. The incredibly easy to decipher syntax makes for easy learning and easy coding. All in all, it's a wonderfully designed tool.
