@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/53190668/61666118-8a2ac080-ac8b-11e9-8a02-26dfedbf866f.png)
 
+[Home](index)
+
 # Notes on Terminal Commands
 A collection of bullet notes describing common commands.
 
