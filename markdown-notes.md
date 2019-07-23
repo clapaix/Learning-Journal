@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/53190668/61661630-65315000-ac81-11e9-9daf-20d681d660e7.png)
 
+[Home](index)
+
 # Notes on Markdown
 Specifically what is Markdown and a few brief notes on commands and syntax.
   
