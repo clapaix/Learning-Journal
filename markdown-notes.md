@@ -32,6 +32,4 @@ This is the biggest strength of Markdown in my opinion. The incredibly easy to d
 * on it's own or - or + signify that something is part of an unordered list and should be bulleted. 
 Number followed by a period like such 1. signifies a numbered list. (More to come)```
 
-![image](https://user-images.githubusercontent.com/53190668/61666118-8a2ac080-ac8b-11e9-8a02-26dfedbf866f.png)
-
 
