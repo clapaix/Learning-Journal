@@ -1,4 +1,7 @@
 # Notes on Git
+
+[Home](index)
+
 A collection of bullets describing important Git commands and their uses
 
 - Git acts as a version control system, allowing one to make a timeline of changes made to a project with labels.
